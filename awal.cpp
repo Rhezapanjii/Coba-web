@@ -32,7 +32,7 @@ int main (){
 	    cout<<sempurna[i];
 	}
 	
-	
+	"blabla"
 	
 }
 
